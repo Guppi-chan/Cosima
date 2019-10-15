@@ -1,0 +1,9 @@
+This is Sparta
+
+Mergekonflikte können entstehen, wenn zwei Leute gleichzeitig an einem Projekt arbeiten.
+Dabei arbeiten sie an der gleichen dabei.
+Reihenfolge um etwas hochzuladen:
+git status
+git add dateiname
+git commit -m "noch ein Name"
+git push
